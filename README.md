@@ -55,13 +55,13 @@
  
  <!-- Enhanced GitHub Stats with 3D Contribution Calendar -->
  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=ff3860&title_color=7957d5&text_color=70a5fd&rank_icon=github&include_all_commits=true&card_width=450" width="48%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff3860&ring=7957d5&fire=ff3860&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=7957d5&sideLabels=7957d5&dates=aaa" width="48%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=pixchy-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=ff3860&title_color=7957d5&text_color=70a5fd&rank_icon=github&include_all_commits=true&card_width=450" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixchy-commits&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff3860&ring=7957d5&fire=ff3860&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=7957d5&sideLabels=7957d5&dates=aaa" width="48%" />
  </p>
  
  <!-- Activity Graph -->
  <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=ff3860&point=7957d5&area=true&area_color=7957d530" width="92%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pixchy-commits&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=ff3860&point=7957d5&area=true&area_color=7957d530" width="92%" />
  </p>
  
  <!-- Animated Contribution Snake -->
