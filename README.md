@@ -49,7 +49,7 @@ Status  →  Open to work
 ```
 
 **[🌐 pichayut.in.th](https://pichayut.in.th)**  
-**[💼 LinkedIn /in/pichayutp](https://www.linkedin.com/in/pichayutp)**
+**[💼 LinkedIn /in/tonypichayut](https://www.linkedin.com/in/tonypichayut)**
 
 </td>
 </tr>
